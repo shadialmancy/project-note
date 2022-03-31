@@ -20,6 +20,7 @@ the first open the homepage and an vertical page is inside 4 shoose
 
 4-display note
 
+when the user choose the function that he/she wants to use, the user has to write the name of the function otherwise the program will display an error
 talk to each choice :
 
 1-create note
